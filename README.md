@@ -1,5 +1,5 @@
 # Knowledge-based-AI
-Case studies of knowledge representation and reasoning
+Knowledge representation and reasoning
 
 Here I collect key take aways about knowledge based AI with its reference. Note that this is only for the purpose of study. If you have problem openning the .pdf directly, please try downloading the whole zip. All content from the CS227: Knowledge Representation and Reasoning: http://web.stanford.edu/class/cs227/ 
 
