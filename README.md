@@ -1,7 +1,8 @@
 # Knowledge-based-AI
 Knowledge representation and reasoning
 
-Here I collect key take aways about knowledge based AI with its reference. Note that this is only for the purpose of study. If you have problem openning the .pdf directly, please try downloading the whole zip. All content from the CS227: Knowledge Representation and Reasoning: http://web.stanford.edu/class/cs227/ 
+Here I collect key take aways about knowledge based AI with its reference. Note that this is only for the purpose of study. If you have problem openning the .pdf directly, please try downloading the whole zip. All content from the CS227: Knowledge Representation and Reasoning: http://web.stanford.edu/class/cs227/ <br>
+人工智慧：搜寻方法与逻辑推论 (Artificial Intelligence - Search & Logic) by Taiwan Evolutionary Intelligence Lab, National Taiwan University
 
 ## Object oriented representation 
 Marvin Minsky in 1975 suggested the idea of using object oriented groups of procedures to recognize and deal with new situations. Minsky used the term frame for the data structure used to represent these situations. The procedures attached to frames give us a flexible, organized framework for computation. The whole point of object-oriented reasoning is to determine the sort of questions appropriate for a type of object and to design procedures to answer them. <br>
